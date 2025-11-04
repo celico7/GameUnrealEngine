@@ -107,8 +107,6 @@ Voici quelques exemples visuels de logique Blueprint utilisée dans le projet :
 ### 🦖 La salle finale : le dôme
 ![Final Dome](images/dome_battle.png)
 
-*(Remplace les liens `images/...` par les chemins réels de tes screenshots dans ton dépôt.)*
-
 ---
 
 ## 📦 Technologies utilisées
