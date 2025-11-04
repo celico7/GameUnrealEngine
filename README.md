@@ -99,7 +99,7 @@ Voici quelques exemples visuels de logique Blueprint utilisée dans le projet :
 ## 🖼️ Illustrations du jeu
 
 ### 🔦 Exploration à la lampe torche
-![Dark Lab Environment](images/lab_torch.png)
+![Dark Lab Environment](images/torch.png)
 
 ### 🌌 Première salle
 ![Third Person Gameplay](images/first_room.png)
