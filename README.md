@@ -52,7 +52,7 @@ Au cours du développement du projet, plusieurs domaines d’Unreal Engine ont �
 ### 🔹 Level Design & Ambiance
 - Conception d’environnements sombres et immersifs
 - Mise en scène d’un **passage de la 3ᵉ à la 1ʳᵉ personne**
-- Travail sur la **lumière, brouillard, et post-processing**
+- Travail sur la **lumière, brouillard, post-processing, les textures et matériaux**
 
 ### 🔹 VFX & Audio
 - Implémentation de **particules (Cascade / Niagara)**
