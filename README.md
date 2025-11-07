@@ -1,11 +1,11 @@
 # Jeu sur Unreal Engine
 # (Titre du jeu)
 
-> *Première partie du jeu grâce à la formation de Gamedev Teacher sur Youtube*
+> *Première partie du jeu (à la troisime personne) grâce à la formation de Gamedev Teacher sur Youtube*
 
 ---
 
-## 🧭 Sommaire
+## Sommaire
 - [🎮 Résumé du jeu](#-résumé-du-jeu)
 - [🧠 Compétences développées](#-compétences-développées)
 - [⚙️ Fonctionnalités principales](#️-fonctionnalités-principales)
