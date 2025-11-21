@@ -78,20 +78,16 @@ Au cours du développement du projet, plusieurs domaines d’Unreal Engine ont �
 
 Voici quelques exemples visuels de logique Blueprint utilisée dans le projet :
 
-### Exemple : Système de santé
-![Update Health Blueprint](images/update_health.png)
-> Gestion de la santé du joueur et des ennemis, avec mise à jour dynamique du HUD.
+### Exemple : Système de l'ennemy
+🔗 [Voir le Blueprint sur blueprintue.com](https://blueprintue.com/blueprint/lw1-h4yw/)
+> Gestion de l'ia des ennemis.
 
 ### Exemple : Système de spawn
-![Spawner Blueprint](images/spawner.png)
-> Apparition progressive d’ennemis selon la progression du joueur dans la carte.
-
-### Exemple : Interaction avec l’environnement
-![Door Access Blueprint](images/door_access.png)
-> Déblocage de portes via la récupération de codes d’accès.
+🔗 [Voir le Blueprint sur blueprintue.com](https://blueprintue.com/blueprint/k0z3d6dg/)
+> Apparition progressive d’ennemis.
 
 ### Exemple : Système de tourelle automatisée
-![Turret Blueprint](images/turret_blueprint.png)
+🔗 [Voir le Blueprint sur blueprintue.com](https://blueprintue.com/blueprint/kbg9lw80/)
 > Blueprint gérant la détection du joueur, rotation automatique, tir de projectiles et mise à jour du système de santé.
 
 ---
